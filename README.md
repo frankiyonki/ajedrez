@@ -1,0 +1,2 @@
+# ajedrez
+juego del ajedrez
